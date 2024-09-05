@@ -45,7 +45,7 @@
 
  // ********************Memmory*********************************************
  
-         //Stack memmoyNon_Primitive(primitive) , Heap memmory()
+         //Stack memmoy (primitive) , Heap memmory(Non_Primitive)
 
             let myYoutubename = "hiteshchoudharydotcom"
 
