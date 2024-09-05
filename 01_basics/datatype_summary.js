@@ -40,3 +40,36 @@
              
              console.log(typeof myfunction);
              
+
+
+
+ // ********************Memmory*********************************************
+ 
+         //Stack memmoyNon_Primitive(primitive) , Heap memmory()
+
+            let myYoutubename = "hiteshchoudharydotcom"
+
+            let anathername =  myYoutubename
+            anathername = "chaiaurcode"
+
+              console.log(myYoutubename)
+              console.log(anathername)
+
+
+          let userOne = { 
+            Email: "skverma@email.com",
+            Upi :  "user@ybl"
+
+          }    
+
+          let userTwo = userOne
+
+          userTwo ={
+            Email : "hiteshchodhary@google.com",
+            Upi : "user2@ybl"
+          }
+
+          console.log(userOne.Email);
+          console.log(userTwo.Email);
+          
+          
