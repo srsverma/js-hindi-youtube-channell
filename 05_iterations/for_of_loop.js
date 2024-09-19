@@ -1,7 +1,7 @@
-// for of
+// for of  loop  iterates over iterable collections
 
 // ["", "", ""]
-// [{}, {}, {}]
+// [{}, {}, {}]           
 
 const arr = [1, 2, 3, 4, 5]
 

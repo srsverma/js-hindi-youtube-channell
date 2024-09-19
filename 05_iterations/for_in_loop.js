@@ -1,3 +1,5 @@
+// for in loop iterates over object properties
+
 const myObject = {
     js: 'javascript',
     cpp: 'C++',

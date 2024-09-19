@@ -1,3 +1,8 @@
+
+// for each loop injavascript is used to iterate over arrays, 
+// object, and  other iterable collection
+
+
 const coding = ["js", "ruby", "java", "python", "cpp"]
 
 coding.forEach( function (item) { 
